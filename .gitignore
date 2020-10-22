@@ -1,0 +1,7 @@
+*.pyc
+**/__pycache__
+ezstan/eg_stan/**/*.pkl
+ezstan/example-models-master/**/*.pkl
+ezstan/cached-models/**/*.pkl
+ezstan/cached-models-new/**/*.pkl
+ezstan/*models*/**/*.pkl
